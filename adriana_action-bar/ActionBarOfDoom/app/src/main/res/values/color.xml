@@ -1,0 +1,5 @@
+<resources>
+    <color name="ColorPrimary">#c3e4d1</color>
+    <color name="ColorPrimaryDark">#f36935</color>
+    <color name="TextColorPrimary">#f36935</color>
+</resources>
