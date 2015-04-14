@@ -1,2 +1,2 @@
 This is another test to see if I can change a file once it has been added
--Joshua
+-Joshua Thomas Galindo
